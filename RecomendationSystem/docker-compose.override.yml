@@ -1,0 +1,110 @@
+services:
+  recomendationsystem.presentation:
+    environment:
+      - OTEL_EXPORTER_OTLP_ENDPOINT=http://jaeger:4317
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ASPNETCORE_HTTPS_PORTS=8081
+      - Ollama__Url=http://ollama:11434
+      - ConnectionStrings__ApplicationDbContext=Host=postgres;Port=5432;Database=AI_DataBase;Username=default_user;Password=default_password
+      - ConnectionStrings__Redis=redis:6379
+    ports:
+      - "5004:8080"
+      - "5005:8081"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+    networks:
+      - direct
+
+  postgres:
+    image: ankane/pgvector:latest
+    environment:
+      - POSTGRES_USER=default_user
+      - POSTGRES_PASSWORD=default_password
+      - POSTGRES_DB=vector_db
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U default_user -d vector_db"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - direct
+
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    networks:
+      - direct
+
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   container_name: ollama
+  #   restart: unless-stopped
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ./Modelfile:/Modelfile:ro
+  #     - ./data:/data:ro
+  #     - ./entrypoint.sh:/entrypoint.sh:ro
+  #     - ollama_data:/root/.ollama
+  #   entrypoint: ["/bin/bash", "/entrypoint.sh"]
+  #   healthcheck:
+  #     test: ["CMD", "curl", "-f", "http://localhost:11434/api/tags"]
+  #     interval: 30s
+  #     timeout: 5s
+  #     retries: 5
+  #     start_period: 10s
+  #   networks:
+  #     - direct
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:latest
+    container_name: keycloak
+    command: start-dev
+    environment:
+      - KC_HEALTH_ENABLED=true
+      - KEYCLOAK_ADMIN=admin
+      - KEYCLOAK_ADMIN_PASSWORD=admin
+    volumes:
+      - ./.containers/identity:/opt/keycloak/data
+    ports:
+      - 18080:8080
+    networks:
+      - direct
+
+  jaeger:
+   image: jaegertracing/all-in-one:latest
+   container_name: Jaeger
+   ports:
+     - 4317:4317
+     - 4318:4318
+     - 16686:16686
+   networks:
+     - direct
+   
+
+volumes:
+  postgres-data:
+  # ollama_data:
+
+networks:
+  direct:
+    driver: bridge

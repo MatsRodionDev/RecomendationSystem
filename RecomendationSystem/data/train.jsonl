@@ -1,0 +1,100 @@
+{"Name":"Smartphone X10","Description":"Latest flagship smartphone with AMOLED display","Brand":"Samsung","Category":"Electronics"}
+{"Name":"Wireless Earbuds Pro","Description":"Noise-cancelling wireless earbuds with 30hr battery","Brand":"Sony","Category":"Electronics"}
+{"Name":"4K Ultra HD TV","Description":"55-inch smart TV with HDR support","Brand":"LG","Category":"Electronics"}
+{"Name":"Gaming Laptop","Description":"High-performance laptop with RTX graphics","Brand":"ASUS","Category":"Electronics"}
+{"Name":"Smart Watch","Description":"Fitness tracker with heart rate monitoring","Brand":"Apple","Category":"Electronics"}
+{"Name":"Bluetooth Speaker","Description":"Portable waterproof speaker with 20W output","Brand":"JBL","Category":"Electronics"}
+{"Name":"DSLR Camera","Description":"24MP camera with 4K video recording","Brand":"Canon","Category":"Electronics"}
+{"Name":"Tablet","Description":"10-inch tablet with stylus support","Brand":"Microsoft","Category":"Electronics"}
+{"Name":"Noise Cancelling Headphones","Description":"Over-ear headphones with 40hr battery life","Brand":"Bose","Category":"Electronics"}
+{"Name":"E-Reader","Description":"Paper-like display with adjustable front light","Brand":"Amazon","Category":"Electronics"}
+{"Name":"Action Camera","Description":"Waterproof camera with 4K/60fps video","Brand":"GoPro","Category":"Electronics"}
+{"Name":"External SSD","Description":"1TB portable SSD with USB 3.2 interface","Brand":"SanDisk","Category":"Electronics"}
+{"Name":"Wireless Charger","Description":"15W fast charging pad for smartphones","Brand":"Belkin","Category":"Electronics"}
+{"Name":"Smart Home Hub","Description":"Central control for all smart home devices","Brand":"Google","Category":"Electronics"}
+{"Name":"VR Headset","Description":"Immersive virtual reality experience","Brand":"Meta","Category":"Electronics"}
+{"Name":"Refrigerator","Description":"French door fridge with ice maker","Brand":"Samsung","Category":"Appliances"}
+{"Name":"Washing Machine","Description":"Front load washer with steam function","Brand":"LG","Category":"Appliances"}
+{"Name":"Microwave Oven","Description":"Convection microwave with grill","Brand":"Panasonic","Category":"Appliances"}
+{"Name":"Air Conditioner","Description":"Inverter split AC with wifi control","Brand":"Daikin","Category":"Appliances"}
+{"Name":"Robot Vacuum","Description":"Self-charging robot vacuum with mapping","Brand":"iRobot","Category":"Appliances"}
+{"Name":"Blender","Description":"High-speed blender with 6 preset programs","Brand":"Vitamix","Category":"Appliances"}
+{"Name":"Coffee Maker","Description":"Programmable 12-cup coffee machine","Brand":"Keurig","Category":"Appliances"}
+{"Name":"Food Processor","Description":"12-cup capacity with multiple attachments","Brand":"Cuisinart","Category":"Appliances"}
+{"Name":"Stand Mixer","Description":"Professional grade kitchen mixer","Brand":"KitchenAid","Category":"Appliances"}
+{"Name":"Air Fryer","Description":"Digital air fryer with 8 cooking presets","Brand":"Ninja","Category":"Appliances"}
+{"Name":"Men's T-Shirt","Description":"100% cotton crew neck t-shirt","Brand":"Nike","Category":"Clothing"}
+{"Name":"Women's Jeans","Description":"Slim fit stretch denim jeans","Brand":"Levi's","Category":"Clothing"}
+{"Name":"Winter Jacket","Description":"Waterproof down jacket for cold weather","Brand":"The North Face","Category":"Clothing"}
+{"Name":"Running Shoes","Description":"Lightweight shoes with cushioned soles","Brand":"Adidas","Category":"Clothing"}
+{"Name":"Dress Shirt","Description":"Formal business shirt with slim fit","Brand":"Hugo Boss","Category":"Clothing"}
+{"Name":"Yoga Pants","Description":"High-waisted leggings with moisture-wicking fabric","Brand":"Lululemon","Category":"Clothing"}
+{"Name":"Summer Dress","Description":"Floral print sundress with ruffled sleeves","Brand":"Zara","Category":"Clothing"}
+{"Name":"Leather Belt","Description":"Genuine leather belt with metal buckle","Brand":"Gucci","Category":"Clothing"}
+{"Name":"Wool Sweater","Description":"Cable knit sweater in various colors","Brand":"Ralph Lauren","Category":"Clothing"}
+{"Name":"Swim Trunks","Description":"Quick-dry swim shorts with mesh lining","Brand":"Speedo","Category":"Clothing"}
+{"Name":"Baseball Cap","Description":"Adjustable cotton twill cap","Brand":"New Era","Category":"Clothing"}
+{"Name":"Silk Scarf","Description":"Luxury printed silk scarf","Brand":"Hermès","Category":"Clothing"}
+{"Name":"Winter Gloves","Description":"Insulated touchscreen-compatible gloves","Brand":"Canada Goose","Category":"Clothing"}
+{"Name":"Socks Pack","Description":"6-pack of cushioned athletic socks","Brand":"Under Armour","Category":"Clothing"}
+{"Name":"Denim Jacket","Description":"Classic blue denim jacket with pockets","Brand":"Wrangler","Category":"Clothing"}
+{"Name":"Throw Pillow","Description":"Decorative pillow with geometric pattern","Brand":"IKEA","Category":"HomeGoods"}
+{"Name":"Bed Sheet Set","Description":"1000 thread count Egyptian cotton sheets","Brand":"Brooklinen","Category":"HomeGoods"}
+{"Name":"Dinnerware Set","Description":"16-piece porcelain dinner set","Brand":"Corelle","Category":"HomeGoods"}
+{"Name":"Area Rug","Description":"5x7 ft wool rug with traditional design","Brand":"Ruggable","Category":"HomeGoods"}
+{"Name":"Table Lamp","Description":"Modern LED lamp with dimmable light","Brand":"West Elm","Category":"HomeGoods"}
+{"Name":"Wall Art","Description":"Framed canvas print of abstract painting","Brand":"Etsy","Category":"HomeGoods"}
+{"Name":"Cookware Set","Description":"10-piece non-stick cookware set","Brand":"All-Clad","Category":"HomeGoods"}
+{"Name":"Bath Towel Set","Description":"6-piece luxury cotton towel set","Brand":"Parachute","Category":"HomeGoods"}
+{"Name":"Curtains","Description":"Blackout curtains with thermal insulation","Brand":"Pottery Barn","Category":"HomeGoods"}
+{"Name":"Storage Baskets","Description":"Set of 3 woven storage baskets","Brand":"The Container Store","Category":"HomeGoods"}
+{"Name":"Moisturizing Cream","Description":"24-hour hydration facial moisturizer","Brand":"CeraVe","Category":"Beauty"}
+{"Name":"Shampoo","Description":"Sulfate-free shampoo for all hair types","Brand":"Olaplex","Category":"Beauty"}
+{"Name":"Lipstick","Description":"Long-wear matte lipstick in 12 shades","Brand":"MAC","Category":"Beauty"}
+{"Name":"Perfume","Description":"Eau de parfum with floral notes","Brand":"Chanel","Category":"Beauty"}
+{"Name":"Electric Toothbrush","Description":"Sonic toothbrush with 3 cleaning modes","Brand":"Oral-B","Category":"Beauty"}
+{"Name":"Facial Cleanser","Description":"Gentle foaming cleanser for sensitive skin","Brand":"La Roche-Posay","Category":"Beauty"}
+{"Name":"Hair Dryer","Description":"Professional ionic hair dryer","Brand":"Dyson","Category":"Beauty"}
+{"Name":"Nail Polish Set","Description":"6-piece set of long-lasting nail colors","Brand":"OPI","Category":"Beauty"}
+{"Name":"Makeup Brush Set","Description":"12-piece vegan makeup brush collection","Brand":"Morphe","Category":"Beauty"}
+{"Name":"Sunscreen Lotion","Description":"SPF 50 broad spectrum protection","Brand":"Neutrogena","Category":"Beauty"}
+{"Name":"Yoga Mat","Description":"Non-slip eco-friendly yoga mat","Brand":"Manduka","Category":"Sports"}
+{"Name":"Dumbbell Set","Description":"Adjustable dumbbells 5-25 lbs","Brand":"Bowflex","Category":"Sports"}
+{"Name":"Running Watch","Description":"GPS running watch with heart rate monitor","Brand":"Garmin","Category":"Sports"}
+{"Name":"Basketball","Description":"Official size 7 basketball","Brand":"Spalding","Category":"Sports"}
+{"Name":"Tennis Racket","Description":"Graphite racket with vibration dampening","Brand":"Wilson","Category":"Sports"}
+{"Name":"Cycling Helmet","Description":"Lightweight aerodynamic bike helmet","Brand":"Specialized","Category":"Sports"}
+{"Name":"Fitness Tracker","Description":"Water-resistant activity tracker","Brand":"Fitbit","Category":"Sports"}
+{"Name":"Resistance Bands","Description":"Set of 5 latex resistance bands","Brand":"TheraBand","Category":"Sports"}
+{"Name":"Hiking Backpack","Description":"30L waterproof hiking backpack","Brand":"Osprey","Category":"Sports"}
+{"Name":"Swim Goggles","Description":"Anti-fog UV protection swim goggles","Brand":"Arena","Category":"Sports"}
+{"Name":"Bestselling Novel","Description":"Award-winning fiction book","Brand":"Penguin","Category":"Books"}
+{"Name":"Cookbook","Description":"Collection of 100 easy recipes","Brand":"Williams Sonoma","Category":"Books"}
+{"Name":"Self-Help Book","Description":"Guide to personal development","Brand":"Simon & Schuster","Category":"Books"}
+{"Name":"Children's Book","Description":"Illustrated storybook for ages 4-8","Brand":"Scholastic","Category":"Books"}
+{"Name":"Science Textbook","Description":"University level physics textbook","Brand":"Pearson","Category":"Books"}
+{"Name":"Travel Guide","Description":"Comprehensive city travel guide","Brand":"Lonely Planet","Category":"Books"}
+{"Name":"Biography","Description":"Life story of famous historical figure","Brand":"Random House","Category":"Books"}
+{"Name":"Art Book","Description":"Collection of famous paintings","Brand":"Taschen","Category":"Books"}
+{"Name":"Poetry Collection","Description":"Contemporary poetry anthology","Brand":"Faber & Faber","Category":"Books"}
+{"Name":"Business Book","Description":"Guide to entrepreneurship","Brand":"Harvard Business Review","Category":"Books"}
+{"Name":"Building Blocks","Description":"100-piece interlocking building set","Brand":"LEGO","Category":"Toys"}
+{"Name":"Doll","Description":"Interactive doll with accessories","Brand":"Barbie","Category":"Toys"}
+{"Name":"Remote Control Car","Description":"1:18 scale RC car with 2.4GHz remote","Brand":"Traxxas","Category":"Toys"}
+{"Name":"Board Game","Description":"Family strategy board game","Brand":"Hasbro","Category":"Toys"}
+{"Name":"Puzzle","Description":"1000-piece jigsaw puzzle","Brand":"Ravensburger","Category":"Toys"}
+{"Name":"Stuffed Animal","Description":"Plush teddy bear","Brand":"Steiff","Category":"Toys"}
+{"Name":"Science Kit","Description":"STEM learning kit for kids","Brand":"Thames & Kosmos","Category":"Toys"}
+{"Name":"Action Figure","Description":"Collectible movie character figure","Brand":"Hot Toys","Category":"Toys"}
+{"Name":"Play Kitchen","Description":"Miniature kitchen with accessories","Brand":"KidKraft","Category":"Toys"}
+{"Name":"Art Set","Description":"Deluxe art supplies for children","Brand":"Crayola","Category":"Toys"}
+{"Name":"Organic Coffee","Description":"Premium arabica whole bean coffee","Brand":"Lavazza","Category":"Food"}
+{"Name":"Dark Chocolate","Description":"70% cocoa dark chocolate bar","Brand":"Lindt","Category":"Food"}
+{"Name":"Olive Oil","Description":"Extra virgin cold-pressed olive oil","Brand":"Colavita","Category":"Food"}
+{"Name":"Granola","Description":"Gluten-free almond honey granola","Brand":"Kind","Category":"Food"}
+{"Name":"Tea Selection","Description":"Assorted premium tea collection","Brand":"Twinings","Category":"Food"}
+{"Name":"Car Phone Mount","Description":"Dashboard smartphone holder","Brand":"iOttie","Category":"Automotive"}
+{"Name":"Jump Starter","Description":"Portable car battery jump starter","Brand":"NOCO","Category":"Automotive"}
+{"Name":"Car Vacuum","Description":"Handheld cordless car vacuum cleaner","Brand":"Black+Decker","Category":"Automotive"}
+{"Name":"Tire Pressure Gauge","Description":"Digital tire pressure monitor","Brand":"Accutire","Category":"Automotive"}
+{"Name":"Car Wax","Description":"Premium liquid car wax","Brand":"Meguiar's","Category":"Automotive"}
