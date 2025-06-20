@@ -1,0 +1,6 @@
+services:
+  recomendationsystem.presentation:
+    image: ${DOCKER_REGISTRY-}recomendationsystempresentation
+    build:
+      context: .
+      dockerfile: RecomendationSystem.Presentation/Dockerfile

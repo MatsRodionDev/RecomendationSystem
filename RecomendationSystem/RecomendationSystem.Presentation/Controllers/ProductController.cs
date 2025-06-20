@@ -1,13 +1,19 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RecomandationSystem.Application.Interfaces;
+using RecomandationSystem.Application.Interfaces.UseCases;
 using RecomandationSystem.Application.Models;
 using RecomandationSystem.Application.Services;
+using RecomandationSystem.Application.UseCases;
+using RecomandationSystem.Application.UseCases.Commands;
 
 namespace RecomendationSystem.Presentation.Controllers
 {
-    [Route("api/books")]
+    [Route("api/products")]
     [ApiController]
-    public class ProductController(IProductService productService) : ControllerBase
+    public class ProductController(
+        IProductService productService,
+        IDispatcher dispatcher) : ControllerBase
     {
         [HttpGet("recomendation/{userId}")]
         public async Task<IActionResult> Get(Guid userId, CancellationToken cancellationToken)
@@ -17,15 +23,18 @@ namespace RecomendationSystem.Presentation.Controllers
             return Ok(products);
         }
 
+        [Authorize]
         [HttpPost("by-term")]
         public async Task<IActionResult> Get([FromBody] string term, CancellationToken cancellationToken)
         {
-            var products = await productService.GetAllAsync(term, 10, cancellationToken);
+            //var products = await productService.GetAllAsync(term, 10, cancellationToken);
 
-            return Ok(products);
+            //return Ok(products);
+
+            return Ok(await dispatcher.Dispatch(new GetProductsQuery(term, 10), cancellationToken));
         }
 
-        [HttpPost]
+        [HttpPost]  
         public async Task<IActionResult> CreateOne([FromBody] Product product, CancellationToken cancellationToken)
         {
             await productService.CreateOneAsync(product, cancellationToken);

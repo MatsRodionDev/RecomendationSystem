@@ -1,0 +1,24 @@
+FROM mxbai-embed-large
+
+TEMPLATE """
+Product: {{ .Name }}
+Technical Specs: {{ .Description }}
+Brand: {{ .Brand }}
+Category: {{ .Category }}
+"""
+
+SYSTEM """
+Generate embeddings with the following properties:
+1. Similar products (same category with comparable specs) should have cosine similarity >0.85
+2. Different categories must have similarity <0.3
+3. Technical specifications are prioritized over marketing language
+4. Brand names are included as important differentiators
+5. Product types and functional purposes are emphasized
+
+Embedding generation guidelines:
+- For electronics: focus on display specs, processor, battery life, connectivity
+- For appliances: highlight capacity, power, special functions
+- For clothing: emphasize materials, sizes, special fabrics
+- For home goods: note dimensions, materials, functional features
+- For other categories: extract quantifiable attributes first
+"""

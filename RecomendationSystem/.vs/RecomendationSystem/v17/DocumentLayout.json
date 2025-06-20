@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\backgroundservices\\createproductvectorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\backgroundservices\\createproductvectorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\recomendationsystem.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\recomendationsystem.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,6 +35,120 @@
       "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E7C7405-3F36-4382-8F36-49FE95737AA1}|docker-compose.dcproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E7C7405-3F36-4382-8F36-49FE95737AA1}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\services\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\services\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\iembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\iembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\recomendationsystem.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\recomendationsystem.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7C7405-3F36-4382-8F36-49FE95737AA1}|docker-compose.dcproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E7C7405-3F36-4382-8F36-49FE95737AA1}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7C7405-3F36-4382-8F36-49FE95737AA1}|docker-compose.dcproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E7C7405-3F36-4382-8F36-49FE95737AA1}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\usecases\\commands\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\usecases\\commands\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\services\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\services\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\decorators\\loggindecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\decorators\\loggindecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\usecases\\dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\usecases\\dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\usecases\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\usecases\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\usecases\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\usecases\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\usecases\\ibasecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\usecases\\ibasecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7C7405-3F36-4382-8F36-49FE95737AA1}|docker-compose.dcproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E7C7405-3F36-4382-8F36-49FE95737AA1}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\usecases\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\usecases\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\usecases\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\usecases\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\usecases\\ibasecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\usecases\\ibasecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\encoders\\demographicencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\encoders\\demographicencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\iragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\iragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,44 +157,16 @@
       "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\encoders\\demographicencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\encoders\\demographicencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\enums\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\enums\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\recomendationsystem.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\recomendationsystem.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\recomendationsystem.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\recomendationsystem.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomendationsystem.presentation\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECC11EF-5425-4F36-807F-5BCB5D22C932}|RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj|solutionrelative:recomendationsystem.presentation\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|c:\\users\\rodio\\desktop\\recomendationsystem\\recomendationsystem\\recomandationsystem.application\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7FBA15-B151-47E4-AE65-C6E8BDA89737}|RecomandationSystem.Application\\RecomandationSystem.Application.csproj|solutionrelative:recomandationsystem.application\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -77,7 +179,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,20 +187,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T18:25:43.254Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\appsettings.json",
+              "RelativeToolTip": "RecomendationSystem.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T14:04:32.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CreateProductVectorJob.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\BackgroundServices\\CreateProductVectorJob.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\BackgroundServices\\CreateProductVectorJob.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\BackgroundServices\\CreateProductVectorJob.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\BackgroundServices\\CreateProductVectorJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:59:12.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "RecomandationSystem.Application\\Services\\UserService.cs",
@@ -111,41 +226,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAF4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:14:01.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Models\\Product.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:13:58.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\DI\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\DI\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\DI\\DependencyInjection.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\DI\\DependencyInjection.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Program.cs",
+              "RelativeToolTip": "RecomendationSystem.Presentation\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:15:12.928Z",
+              "WhenOpened": "2025-05-01T13:30:23.798Z",
               "EditorCaption": ""
             },
             {
@@ -156,113 +245,53 @@
               "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Controllers\\ProductController.cs",
               "RelativeToolTip": "RecomendationSystem.Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T15:11:16.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T15:10:21.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\ApplicationDbContext.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:15:49.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Program.cs",
-              "RelativeToolTip": "RecomendationSystem.Presentation\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAnwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:30:23.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Enums\\Gender.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Enums\\Gender.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Enums\\Gender.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\Enums\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:15:35.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DemographicEncoder.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Encoders\\DemographicEncoder.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Encoders\\DemographicEncoder.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Encoders\\DemographicEncoder.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\Encoders\\DemographicEncoder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:15:21.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\appsettings.json",
-              "RelativeToolTip": "RecomendationSystem.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-01T14:04:32.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "RecomendationSystem.Presentation.http",
               "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\RecomendationSystem.Presentation.http",
               "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\RecomendationSystem.Presentation.http",
               "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\RecomendationSystem.Presentation.http",
               "RelativeToolTip": "RecomendationSystem.Presentation\\RecomendationSystem.Presentation.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-01T17:54:30.764Z"
+              "WhenOpened": "2025-05-01T17:54:30.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RecomendationSystem.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T15:38:39.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:14:01.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Categories.cs",
-              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Enums\\Categories.cs",
-              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Enums\\Categories.cs",
-              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Enums\\Categories.cs",
-              "RelativeToolTip": "RecomandationSystem.Application\\Enums\\Categories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:15:29.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "RecomendationSystem.Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj",
               "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\RecomendationSystem.Presentation.csproj",
@@ -274,7 +303,263 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmbeddingService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\EmbeddingService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Services\\EmbeddingService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\EmbeddingService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Services\\EmbeddingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:55:44.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmbeddingService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IEmbeddingService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\IEmbeddingService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IEmbeddingService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\IEmbeddingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:00:46.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\DI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\DI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\DI\\DependencyInjection.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\DI\\DependencyInjection.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBwAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:15:12.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-11T19:25:39.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Dockerfile",
+              "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\Dockerfile",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Dockerfile",
+              "RelativeToolTip": "RecomendationSystem.Presentation\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T17:10:54.373Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-11T19:25:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAUwK4BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-12T20:59:19.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-15T18:55:13.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\UseCases\\Commands\\GetProductsQuery.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\UseCases\\Commands\\GetProductsQuery.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\UseCases\\Commands\\GetProductsQuery.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\UseCases\\Commands\\GetProductsQuery.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:55:55.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RecomendationSystem.Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:36:47.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAABBwEAAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:15:49.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Services\\CacheService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\CacheService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Services\\CacheService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:29:55.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RagService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\RagService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Services\\RagService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Services\\RagService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Services\\RagService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:46:45.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBaseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\IBaseCommandHandler.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\UseCases\\IBaseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\IBaseCommandHandler.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\UseCases\\IBaseCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:23:47.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\UseCases\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\IQueryHandler.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\UseCases\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:58:31.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:39:44.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogginDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Decorators\\LogginDecorator.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Decorators\\LogginDecorator.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Decorators\\LogginDecorator.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Decorators\\LogginDecorator.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:41:35.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\IQuery.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\UseCases\\IQuery.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\IQuery.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\UseCases\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:08:31.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\UseCases\\Dispatcher.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\UseCases\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\UseCases\\Dispatcher.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\UseCases\\Dispatcher.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:13:42.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\rodio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\rodio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAMwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-13T10:22:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T20:37:38.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomendationSystem.Presentation\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "RecomendationSystem.Presentation\\WeatherForecast.cs",
@@ -286,7 +571,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\UseCases\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\ICommandHandler.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\UseCases\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:08:31.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\ICommand.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\UseCases\\ICommand.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\ICommand.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\UseCases\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:08:32.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IBaseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\IBaseCommand.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\UseCases\\IBaseCommand.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\UseCases\\IBaseCommand.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\UseCases\\IBaseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:08:33.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DemographicEncoder.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Encoders\\DemographicEncoder.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Encoders\\DemographicEncoder.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Encoders\\DemographicEncoder.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Encoders\\DemographicEncoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:15:21.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRagService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IRagService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\IRagService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IRagService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\IRagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:52:16.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:10:21.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Models\\Product.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBZwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:13:58.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:25:43.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Enums\\Categories.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Enums\\Categories.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Enums\\Categories.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Enums\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:15:29.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Models\\User.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:14:40.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "RecomandationSystem.Application\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\rodio\\Desktop\\RecomendationSystem\\RecomendationSystem\\RecomandationSystem.Application\\Enums\\Gender.cs",
+              "RelativeToolTip": "RecomandationSystem.Application\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:15:35.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
